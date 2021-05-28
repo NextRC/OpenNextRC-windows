@@ -1,1 +1,1 @@
-print("hello world");
+System.console.writeLine("hello world");
